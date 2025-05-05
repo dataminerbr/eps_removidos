@@ -433,7 +433,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F71c25ab5-9489-41d2-ba76-73323864642d%2Fmain%2F1280x720%2F11m37s290ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzcxYzI1YWI1LTk0ODktNDFkMi1iYTc2LTczMzIzODY0NjQyZC9tYWluLzEyODB4NzIwLzExbTM3czI5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMjc5NjN9fX1dfQ__%26Signature%3DGKZI8pFPgxp~3N~Wo-YuIpcF7LMK5ohHOi8RaZ3KuWgECXh8d4gV2cCKJuBVv0SxG-R612w8gN9hkrsHC9aQUSL8nMorKWAAkYdpZlOZuTdX6dzoscNZ2XSlOgjMbzsHuKKMYbNVa1xCsfqJm1dQJrW7IDrJMMWuzYNq6wTKKtZzW8F12fego8zgsdqRQLFIPTEVBnGbUsuQ5GaWNhw~Mi7Qty1cnd9y-GHPk-MXcD4Vi3tdUUV2MoSnXJpiFov44xfHj58oQdARjwWlk6DlxOsJcUE0S4Z~ditYoGVhJirH0vFYrUnLLrUWi17OQcUGvDnIxSwXqhT88cAoqP~hFg__&w=640&q=75",
       "expire": "05-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P", "1080P"]
     },
     {
@@ -442,7 +442,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fda15629b-27fa-4ae1-b807-2729ab5bae1d%2Fmain%2F1280x720%2F11m20s341ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RhMTU2MjliLTI3ZmEtNGFlMS1iODA3LTI3MjlhYjViYWUxZC9tYWluLzEyODB4NzIwLzExbTIwczM0MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzYxODF9fX1dfQ__%26Signature%3DYKF~tOu2RBJFNNpaJjZ~1cTMPff6XCgXwNVN2KL4QD6ah1u5F6AScfCIMIPhkabQxky9LF3j~B7En10bsTzB2ukAgVcy-QVSN6WRF-ToqEkJssNnYfFLj72BsTXr1KezW2BZLu17k1VlmmZ-LqEdMeS4SXwxdgJuoaK8e00f6Y7rK3WuF0qFWp3~oFhiOX2xPfS1iYLgCj23XCMOFNGEUCiys01-JOIF2c6QuMd~Lnt~O84NUVe~uKx18qZRHu3dF83f9P8uheD8Kpp8eLPaaMeNCr9g5-78e2~cxTsY0RCJZVM3Vn0EOyg4vIEWUU4g0I6oySiNeqddIovBr3Cp7w__&w=640&q=75",
       "expire": "05-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P", "1080P"]
     },
     {
@@ -451,7 +451,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe9989b29-c0aa-4738-aab5-83cf1b38cb32%2Fmain%2F1280x720%2F10m25s973ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U5OTg5YjI5LWMwYWEtNDczOC1hYWI1LTgzY2YxYjM4Y2IzMi9tYWluLzEyODB4NzIwLzEwbTI1czk3M21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzM0NDd9fX1dfQ__%26Signature%3DFssXm5PFcgzFhym961aMpXCjES5tuCGUj1VUhjOCX-YzniCSeA8nKll5swc1pyqFqqkHc2SVdup6jj0qcq--X34fFUuGNoQ2Q52NtA9a55jKR-wf302g6F3l5Jjk2RIVCWDySNJhwU564lOw55~tKgixKylwWDKkVW9PdNTNHFrhkJw9LO1UfLMwVYrMolpaWzoHkCMM948jziosn4uYl7KLug5FiqSz-qCBvqGTE77Mnqsi161MvmYx3yGmi4ZXAcn4ZCwS7DO33ZRo8TLPh~tjOT8wJPrW2FSflm5KsjAJuN7RAGXMYPROepOydO0iBsm~9U8Vgr9pm7It5SaSxQ__&w=640&q=75",
       "expire": "05-05-2025",
       "time": "29",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P", "1080P"]
     },
     {
@@ -586,6 +586,24 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F06be7711-91ae-4bce-a9fb-84a249da3ad7%2Fmain%2F1280x720%2F10m12s416ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzA2YmU3NzExLTkxYWUtNGJjZS1hOWZiLTg0YTI0OWRhM2FkNy9tYWluLzEyODB4NzIwLzEwbTEyczQxNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDIyMDZ9fX1dfQ__%26Signature%3DdlxQq7qySSmTE3Z3oP71m4ppMIGvYqSC33QzXGJlfOKkKufiXQF7ZLGp87qlN4UWHepz5g8OP001Cg0nSbmkaDe4Hs9Ud~JwQHMhEFEyhKW8AuOiGpw1ZPkvx8o2NqB7GaeWtA-K1rRlHbG2dTGYawOSHhSDCFqi6FU2GKG2s-br-9fmR-qKFLVOQ2aFg1z0kwKZzGTd0Q8DzALmEroTPuWsX9uBuZMWifO2Gt-zyTkMgwFLTSzX7oBrY8VxWxFhGZPT5-rIG-O0ogB0PKSJrHNKQBk-E~~zpr2v~Akt2SBi86KHJtmfTjH8hL60Rfl7l9tVQiPpxVwUB2DQ4cMNVQ__&w=640&q=75",
       "expire": "10-05-2025",
       "time": "20",
+      "enabled": false,
+      "quality": ["720P", "1080P"]
+    },
+    {
+      "name": "Os penetras - Parte 1",
+      "id": "6372253162112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F65b44fd4-37a9-4201-a287-22677bb72478%2Fmain%2F1280x720%2F10m24s938ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY1YjQ0ZmQ0LTM3YTktNDIwMS1hMjg3LTIyNjc3YmI3MjQ3OC9tYWluLzEyODB4NzIwLzEwbTI0czkzOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY0ODc1ODZ9fX1dfQ__%26Signature%3DR4z10cjXALYo1HDpUB8zUsaAkCNCKEk3qDEAXPi47P4ORdOVOFv1E3pS82s5-aUAwo-xNKiDtJFzQVJAM9xPjhLhamYi68mQMv3bmYU5uTa5r9mZ7eL0OZwTopDOOWyR45Ul13xvn~aiw6W5YduO~c6-a9Shmpp~4WQDCDHzUZeIcoz9ta2WzqU6oD7jo8jRRwDppJAWHUcbgvuWsDF6OmNpRu2d1w-jcJ-ajCn-hIr5b6SUWNbWcCGh9agIEbBADXIS3rDSyn33fc7jMV8EwjRR9rrp7DCcrIKXxGYp169wJXvhnnm8FpliZ5wMZR-ZKiftuxd~SWdCg2qw6DTUug__&w=640&q=75",
+      "expire": "12-05-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": ["720P", "1080P"]
+    },
+    {
+      "name": "Dona Florinda abre um restaurante - Parte 2",
+      "id": "6372254548112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F14d8a8a8-8ccc-4d07-b70e-19ea401d373e%2Fmain%2F1280x720%2F10m24s960ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE0ZDhhOGE4LThjY2MtNGQwNy1iNzBlLTE5ZWE0MDFkMzczZS9tYWluLzEyODB4NzIwLzEwbTI0czk2MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY0ODc1ODZ9fX1dfQ__%26Signature%3De8rGZXznAP3N8Sp6d167aZgh7j-fVBI0gVkv7B~ilguybKQhVFSJAyPE2uUYXCtZXRnU9kzlROSLjZnvDnCj3a7m71ZgzRMlHUNBZf0QOPoYm~lekxCF6QcAFIZL2sf32ovKE7J7PAmi3i6UfxRS20RNUC~mcFssSUaYRlgUs68C50M-4oS5CCEpz9cre0Ri6GUMZJ3k8f3zL9fTt5BPsbA7rR4ICAMPXVeYovxnA-9WZYcmeLTRcTbLQc0rZ5hwYJFaDpcJVReniLPTtLwqK7n42cMNndNBGkhWr83aJxrkVpLTtm3ZVQvWhwOxp29b~hM3AkD76xy8TqMMpD9pFw__&w=640&q=75",
+      "expire": "12-05-2025",
+      "time": "21",
       "enabled": false,
       "quality": ["720P", "1080P"]
     }
