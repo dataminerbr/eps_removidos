@@ -2,6 +2,8 @@
   "videos_bonus": [
     {
       "name": "Abertura Brasileira",
+      "reference_id": "6363759535112_aberturachapolin",
+      "episode_order_number": "1",
       "id": "6363765157112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fed27bc53-95ca-4678-8b1e-c0a36fe85c44%2Faf56b413-aada-40a8-bc02-f6a3aaef310c%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2VkMjdiYzUzLTk1Y2EtNDY3OC04YjFlLWMwYTM2ZmU4NWM0NC9hZjU2YjQxMy1hYWRhLTQwYTgtYmMwMi1mNmEzYWFlZjMxMGMvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0NzE4NH19fV19%26Signature%3DG~U9hvJCe~tFuknFTzeG6M19RPoxEMjmUfDlRaSBpQxSvcE7anW~NVHnBwxmXQwHSKWID1xDKsgLHCBl-5-n~9Zcp5cb~U29VTsD5fKLW89Pxs1HaPvEZ6iLuUcel0Rrdn8VFlQoEKCNMX1g89JdMORMJiacyXygWlOO8EHk02tX4pmuFyRGaq5YrdGv3sxLOTpUHd7Syc1ZXwQ7P9x0jb5cYRYwwzb~kUEkF5l6THnqHeAb~ZiJRpPxHcg8M7BaETXKR3bztwVMvuW6dLjQQSeRRTUqjRuXPxlpTePt4Z94oy~4fShgOpQWXEZvdMZKstGIjR2jYcuBNdpoMfFo7w__&w=640&q=75",
       "expire": "-",
@@ -13,6 +15,8 @@
   "videos_fixos": [
     {
       "name": "Dr. Chapatin e as Melancias / A Volta do Super Sam",
+      "reference_id": "24000369_chapolincolorado_2024_001",
+      "episode_order_number": "1",
       "id": "6363759969112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F6f05654e-afab-4ebc-93b0-def3f3f256f7%2F0312bd2b-bfe5-414c-8327-12072d3f88bc%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzZmMDU2NTRlLWFmYWItNGViYy05M2IwLWRlZjNmM2YyNTZmNy8wMzEyYmQyYi1iZmU1LTQxNGMtODMyNy0xMjA3MmQzZjg4YmMvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzNjc3NH19fV19%26Signature%3DaZsl1sFrutoxeC2iPXGmRO04aQxgKW1W3EQWdk9SHN5o-GHo8stq~ayP3NQwPJZ6RBN0EZnMKgf9gXqsnCTUQJv-ZWTvyQqHNOxH-ZOjCEAM5TMtSaAC7o2nE-1yVLDKft61r20t4HLmK4qULwXf2rJYjiyvpJQZDP11Zqh546tNPOwYRucdk7fcg6VE2KCXl9OK-KoW5kjOZAqkyP1UzF9ggF3EIcnvSpf3OsFIY-sw4eA48mOjmMK7riign6sT5vfnISjo1LE5b6qdiER~lfiR71dITBkdKVRGh3JaXVkqoP9FJ4sGeluJUqSgZW8EjC4MJPQuNPhozWbFPU9msA__&w=640&q=75",
       "expire": "-",
@@ -22,6 +26,8 @@
     },
     {
       "name": "Os Piratas - Parte 1",
+      "reference_id": "24000369_chapolincolorado_2024_002",
+      "episode_order_number": "2",
       "id": "6363764050112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F22584fee-af47-408f-9030-3f93b98e34a4%2F85055308-5eda-48ae-b4fc-86c02de915da%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzIyNTg0ZmVlLWFmNDctNDA4Zi05MDMwLTNmOTNiOThlMzRhNC84NTA1NTMwOC01ZWRhLTQ4YWUtYjRmYy04NmMwMmRlOTE1ZGEvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzNjA2Nn19fV19%26Signature%3DGBZCzH8XVgvcNuCIz6iXcFtzRtHVrb4XmVPTgCeufj-ZyE22XqBvaF0~H3HwVSkamsZlboJp8-p~l4~pgc82D6s8i2mP2cRRWHbV6yI34ZRmc~pzJhYHWFKnq7bdZplho~~YVuUCfKg1VDeZJ9JwKzUAmhF3-WQcmVgnyNubUh9YnAvyiJBv8ta2rsB5tVbG~rquE2Bo418g9A1LXxzUnAf884zxgiNeGn--OEZLTRZf0QiCikHWhg127NSTiBKi2-dKPhWKVnkSHRicyNtAbqwGsvNJMVZapP~1Jsjk0rMblGsmb135I~bOzM2-T3cXMtIctTjqUntpY7wV4KjM-A__&w=640&q=75",
       "expire": "-",
@@ -31,6 +37,8 @@
     },
     {
       "name": "Os Piratas – Parte 2",
+      "reference_id": "24000369_chapolincolorado_2024_003",
+      "episode_order_number": "3",
       "id": "6363763453112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fd1d5cf0a-4b86-4ce0-bbd7-db6fe413ff5a%2Fe0dde0e4-6c66-4fb0-8628-20a992c95266%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2QxZDVjZjBhLTRiODYtNGNlMC1iYmQ3LWRiNmZlNDEzZmY1YS9lMGRkZTBlNC02YzY2LTRmYjAtODYyOC0yMGE5OTJjOTUyNjYvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0Njk3MX19fV19%26Signature%3DFkx5QahxeuRy-xQ9bLxAg0BFBl6kQGV5T1z5O4GUr5vw~hUlhHTV1war71rXk8zwyPIghz~XNtcpCHTGYxqBd~OLpx3-Sm33fVpR6qBXgXoP3dDl8RPOf34KgPKfJHVrIfwYj4mixCWZ0KrSjePr-hpqrDxUrYM799ZNAa3-SemvHntDRrE0CpUZgXhdYmjO5NWk1ccHqhvjg6fkr2fDwSPE3hGVP4r-Tmywl8YfxeL1Sbhl9uAirVkISV5zorjIrCV7Frq55V96YDNesPYm0z-lY8-H~K-xyJF5oHMUm5L7jJSSwx1SqG5Mp~0TFgis5vmuitbz14DCeiYpEoCvjw__&w=640&q=75",
       "expire": "-",
@@ -40,6 +48,8 @@
     },
     {
       "name": "O Louco",
+      "reference_id": "24000369_chapolincolorado_2024_004",
+      "episode_order_number": "4",
       "id": "6363764820112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F7ae0db5a-031f-4b39-8955-0a87b23c2ec9%2Ff8b1a02c-544a-4367-9c89-d260a9428b64%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzdhZTBkYjVhLTAzMWYtNGIzOS04OTU1LTBhODdiMjNjMmVjOS9mOGIxYTAyYy01NDRhLTQzNjctOWM4OS1kMjYwYTk0MjhiNjQvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0NTEyNH19fV19%26Signature%3DU-GoDyeFHFZBA3cla4JgRkzSXzr01MnNbvP4VGjgDcWIGsoRuYyxVCxrMFq3Lmu5Thz9raPt2Uv6onZV9VPjZ5UaVUswZVgCyMj7xUYzsNTbiVTmpdXT9jD8Ckk5onjjEbkOttBMflUvHjzT-ARsF9YACByiLRhdaAIFnzCXZCDMAoY2vBwu2uoKpKuw-ZBiwludSI80~V662rYCguYTj4BnnMaBM7PjLRtRNhAHmjYbk3CHC5PsZPpjAhU5UnaxkfbayycGrTZ8Noap50BcigyqszLY2RQMrE0HUvweBSsCov3tLYvYlyQiVpXeCQxl1OepAYQSworv20oo0VtYYA__&w=640&q=75",
       "expire": "-",
@@ -49,6 +59,8 @@
     },
     {
       "name": "Histórias de Bruxas",
+      "reference_id": "24000369_chapolincolorado_2024_005",
+      "episode_order_number": "5",
       "id": "6363764525112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fd86ca034-4ca8-4c15-9db4-3e615cc706c4%2F9e706408-1e9c-4fc6-9dda-7fc5058dbd53%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2Q4NmNhMDM0LTRjYTgtNGMxNS05ZGI0LTNlNjE1Y2M3MDZjNC85ZTcwNjQwOC0xZTljLTRmYzYtOWRkYS03ZmM1MDU4ZGJkNTMvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0MzA1M319fV19%26Signature%3DME~1nvFAwD3tsu4HmqqLSzslE7TVSZTf9Tue84naqJMKONTujnoBkEXiecqWCR7OHrbnQAiH2-twPXBJeEMOIxUkf0uG1TCTL1C3IalubFwkYD-BTyvHe9pe-5guqEguvGjydhMt32dpzlRRdj7NtxTmRA54wggbj83SqxNdIH-P7vhbGl7S6ITdLN7pxVdjNICd8iBMjugdjHgvbqSTWmwNC1q-7BTh3JT6~0tqxfkWMOGmGQyf0t7hp4XIsAgsUvI~whpP0BKyjz5Q7DXhrrRG1DAV4U4mW~bouqWJxo3WdMelItBhKA4ik4JmJzFmjI7twWPn5x4OW~8nMdppoQ__&w=640&q=75",
       "expire": "-",
@@ -58,6 +70,8 @@
     },
     {
       "name": "O Abominável Homem das Neves",
+      "reference_id": "24000369_chapolincolorado_2024_006",
+      "episode_order_number": "6",
       "id": "6363763656112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F154d5de4-27b3-4ff4-b933-9870de2ed550%2Ffe961131-0d2f-4b75-a5bf-6f35eb1bb68d%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzE1NGQ1ZGU0LTI3YjMtNGZmNC1iOTMzLTk4NzBkZTJlZDU1MC9mZTk2MTEzMS0wZDJmLTRiNzUtYTViZi02ZjM1ZWIxYmI2OGQvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzODkxN319fV19%26Signature%3DZnVX1aAe7CvHXVZYkSleK~3XlSamJO-Hb2CS6yFsvK~9oHU27CG6GP3~H6j9AQup0QJXmEkjmOO3uQofT0p9eBcnt9vHLOBz~gQYLdvUH2qT3a~4yVfDtc3L0xy38RZXkOD3mrtUfrfSnrdfWFlqkZHwgAtgwiVDS9Fb~BKZkRMpysILKJ~gP62Q9JLiKHo5LcKcObLEF9EqyAtMmYQbTWIvT4wllPyqAKJ2Sut3ZJXKVj633OYoIKmUYyoayrvZq1fPiMG6yWxGOGqMwQIFGgKhVYZcyGXoAOCZaO~Egjr2R-h5~BB6nTRdg9r7qHoU-etw-e7zACv1NDbgmo2j7g__&w=640&q=75",
       "expire": "-",
@@ -67,6 +81,8 @@
     },
     {
       "name": "O Bandido",
+      "reference_id": "24000369_chapolincolorado_2024_007",
+      "episode_order_number": "7",
       "id": "6363765284112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F3ff1bc55-0268-4ed8-8e3c-d909fa59ee7b%2Fbfdf87b4-d74e-4940-8437-46a313005232%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzNmZjFiYzU1LTAyNjgtNGVkOC04ZTNjLWQ5MDlmYTU5ZWU3Yi9iZmRmODdiNC1kNzRlLTQ5NDAtODQzNy00NmEzMTMwMDUyMzIvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0MDI0OX19fV19%26Signature%3DS-eUUsvmyJyYCoUC5SbBxWfZYeiNv5N6TbwaG~w44RMoCJIitf6unvKJEh1-v5wM0AwHiBhK5eRZTRvaCGiUGULbt132J7dgVw5tCcA5oJaL3qVrbZuXNzSP70mAhyKpWSYzpx9fK90V-XUY6Bughdz8Mi-GLJp8E1Q84NNFqOLtoLlDtcEUxoko-vL1yjrkfrwWJ5WtC4suLjfAp3MxPD-4gp9Q-7yAhOE1aIIzB-ZQNFNWWe09CeHvKivxSU1C7wFJ9Duw0KCwvUTfqwSq-rdav-Ave9uXkADyjpMKrZlrIxv84WwOgkX5qaAW3sGvCLPVTZRRrx5yM564CRE1eQ__&w=640&q=75",
       "expire": "-",
@@ -76,6 +92,8 @@
     },
     {
       "name": "A História do Menino que Jogava Brinquedos Fora – Parte 1",
+      "reference_id": "24000369_chapolincolorado_2024_008",
+      "episode_order_number": "8",
       "id": "6363763051112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fe4756177-4006-49b3-a2e2-094708cf058f%2Fffdf84ac-0d23-4e8e-8ba6-822f611b0777%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2U0NzU2MTc3LTQwMDYtNDliMy1hMmUyLTA5NDcwOGNmMDU4Zi9mZmRmODRhYy0wZDIzLTRlOGUtOGJhNi04MjJmNjExYjA3NzcvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjM0MzczM319fV19%26Signature%3DLwDMTVcfNmG6WIqQHu94F4sN8oUGRhDNDsX7LsSgOlXI0JE4HmT8io2bBWgyD4fbxzfp393OZ2tieDNU5T9PlculkpNK4RP9GBv86~JrSl4mCO~wRutjSfEJ9qg79qpv0fSnTYjPmGuWtoM46l2laFZo1JP5cgdKCuIDzyb6Y1AGisN245wI4Ch4708~di8232s~1QJUTyu-YIWAgfUiKuV57Leq35eGKvmuIPu3TZHShedF2OASKhiWMLAH3uyzKulFPAbQvqZEriec4iM8beiP--LtjGUR0pKdy~L6BKfqz8~KqkxRmDnKOikXCMCZfVhUtExD6fGAveDB5v0gzA__&w=640&q=75",
       "expire": "-",
@@ -85,6 +103,8 @@
     },
     {
       "name": "A História do Menino que Jogava Brinquedos Fora – Parte 2",
+      "reference_id": "24000369_chapolincolorado_2024_009",
+      "episode_order_number": "9",
       "id": "6363764924112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fa1701216-0736-4a1e-8660-b222f56bb16b%2F46679edc-0e00-409a-8ee6-4bb465f6569d%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2ExNzAxMjE2LTA3MzYtNGExZS04NjYwLWIyMjJmNTZiYjE2Yi80NjY3OWVkYy0wZTAwLTQwOWEtOGVlNi00YmI0NjVmNjU2OWQvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzOTEzNH19fV19%26Signature%3DZm5enIa0I--poNXvSCgjSGthvCRXNgYOnztCQjw8L~eXij16wVc7abo1jS-fV2vanSsfbEM30aVCNOQmxqZe7xaFReIcFfOIvQvqUp8YP-J-wt-~oQ6VFTUR0HkBLZMRIqw7j-5SM21BaUD5sXw85Asy9HdzDxCoC2mbJYJ5l8Bjl5FpeCBlMbRPvjn9dgwarf4H5NFBxvh1RynJ~tTmPi9pyO4ENhgY3JPan-7dNUX65dbfvzZa-XVTKQKV~5KfP2Sv1SQpqwdvdtKXdU3wfDwGQzvme4RhsRxfK4nSFvbZapql~zWJNWzkXIp7WhuGk4qEZu1fk~b~Up14Cd3FiQ__&w=640&q=75",
       "expire": "-",
@@ -94,6 +114,8 @@
     },
     {
       "name": "Ser Pequeno Tem Suas Vantagens",
+      "reference_id": "24000369_chapolincolorado_2024_010",
+      "episode_order_number": "10",
       "id": "6363765187112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F2a5fcc25-1372-45ef-9d4c-835056f137f7%2Fdca29355-a20b-404d-b0d5-d36eb999a0db%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzJhNWZjYzI1LTEzNzItNDVlZi05ZDRjLTgzNTA1NmYxMzdmNy9kY2EyOTM1NS1hMjBiLTQwNGQtYjBkNS1kMzZlYjk5OWEwZGIvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMyNTYzN319fV19%26Signature%3DgKq2F7mbE92t0rOdEFVaBx4kqjgUt-5prUjvteV~Z4-1ELAcLfpYnmZtA5q4OngeZmxKQ8q9beV3e5oU6Zzdu4FsK1Hvw2qFJCW3d5X5NmKKhHLonbz8jbRQCGF3U6H7RAQPUn3OcAl6DkUuhBPqHjz2k2~ugHggvgAk~2a7dejDoEVTz9zWKcbQaNsPhCZXzRsrbIZ2jmoBCbcDb0GJMS-IQZt1OY9gGUQlsFAQlO7KWO~HOvboHCV5iEXVGKzsq9QIFQh0Ylz0uC9te~hhveh-wclCeHn3S3dj33PUjf9nnMsBcBcMzJIGRnF5i370qxd7r~4OujUftLgx028gHw__&w=640&q=75",
       "expire": "-",
@@ -105,6 +127,9 @@
   "videos_rotativos": [
     {
       "name": "Uma conferência sobre o Chapolin",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_093",
+      "episode_order_number": "1",
+      "original_title": "Conferencia sobre un Capulin",
       "id": "6372030616112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9dde79c5-1a7d-435c-8a73-dc6180514bc9%2Fmain%2F1280x720%2F11m14s720ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzlkZGU3OWM1LTFhN2QtNDM1Yy04YTczLWRjNjE4MDUxNGJjOS9tYWluLzEyODB4NzIwLzExbTE0czcyMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMjYxNzZ9fX1dfQ__%26Signature%3DbDYa-aov0jyX6I0T37SmpPkzMXVuevDBpwa2LWiXn~O-crax4uDNLKlXBs7hr2~4OcXzJcjGAjk2ldpVZHLdm-MWrZlCpLUrLS4XCHxvH4dlKeFveiVfahEVSsGPaALh06qRMpL6JsVlxZuKx3bZkXkQhEmvvFnn-l2MO3qeQherI-2W3Ugq9wb7B~ggJCBqVAto2glfMVkCG-V0iCiYz0DRJqCH291stjNLq5cP6m4RYJqoLUuhHjeeFPJQxnZtpU-CvdZo2t5Z63DvwYQI38cQen1o9CsIAF0C2of0qkJYBITkElxp~vKyQlVdeSD5ZD7iHHeaD5MgWKVua65pyA__&w=640&q=75",
       "expire": "05-05-2025",
@@ -114,6 +139,9 @@
     },
     {
       "name": "A dona da ilha dos homens",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_073",
+      "episode_order_number": "2",
+      "original_title": "La isla de los hombres casi solos",
       "id": "6372027777112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6858c7fb-965e-4fe6-82ee-e8c99d99e117%2Fmain%2F1280x720%2F11m22s613ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY4NThjN2ZiLTk2NWUtNGZlNi04MmVlLWU4Yzk5ZDk5ZTExNy9tYWluLzEyODB4NzIwLzExbTIyczYxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDIxNzR9fX1dfQ__%26Signature%3DNuvOCC0iSK0TTWmEGyevmSEXhwryNFJuxFuisNxP5OvKxMWxop2~AuSaXjhiPR1athNvYWB0jrt0AH-AzmR2dFT8IpezZgTkE0heTSztltoR6-tEIRPfzJ67xrwhibPYiF4jR~7wohdP~WT7T-TMtqqWUrLFcRcwPK8r1jYDQbXUYjYsermInwWleoxtt7GGhRC67asZvfrM94FhtDO5cOccn2cLCsuBEMSm46NjHKMur9giZ~QfMFgu~7QRJyD6VJnzW-Jp9dF5TNkWYYG7l9VNqZ7fEU-j8X04r4TOGPM-pU6Sv1c8m9ucXVwsrYkcazjlfPR37WsXXW5mlPyCjA__&w=640&q=75",
       "expire": "06-05-2025",
@@ -123,6 +151,9 @@
     },
     {
       "name": "Não confundir a casa cai de velha com a velha cai da casa",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_039",
+      "episode_order_number": "3",
+      "original_title": "Não confundir a casa cai de velha com a velha cai da casa",
       "id": "6372028179112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0346fa5f-33c6-4a92-9861-5044d0c6a829%2Fmain%2F1280x720%2F10m14s858ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzAzNDZmYTVmLTMzYzYtNGE5Mi05ODYxLTUwNDRkMGM2YTgyOS9tYWluLzEyODB4NzIwLzEwbTE0czg1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMjkyNzF9fX1dfQ__%26Signature%3DE7B-T9~9Z-vgLhz09hRtuhhIIwV4S9Rdb94UocFehJo8fYkLKYWxNCe-Yc8Ai3EX-vUFYL2-BVJ~JXUs7FRc1ztq2w8tkQAJSp6p4AYC81F5XZJdPJdN~Nw-cYJznZ-59-v9GSGxgMmveRodimaaC2nAI~0cg4PhKDBgIV2xwgbTW6w8o57D4Cb3CHx6yV4nFeqx6tGHKcFiLSWnWCj3eS-wiardlujsusthP6qXTi7dGDnt1kdQmYoC7dtpdytTvEWnMaguXN-Vy-CSC58g85zJbs2-gjShllkYxQbIm~f4jAGYFCpFcjpXNPDoAKwma6WSIakCir8PHpIT-P8mRA__&w=640&q=75",
       "expire": "07-05-2025",
@@ -132,6 +163,9 @@
     },
     {
       "name": "Um bairro muito tranquilo",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_104",
+      "episode_order_number": "4",
+      "original_title": "Um bairro muito tranquilo",
       "id": "6372170039112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa65c453a-5ec2-4dc3-b91d-9211049a6186%2Fmain%2F1280x720%2F10m14s346ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E2NWM0NTNhLTVlYzItNGRjMy1iOTFkLTkyMTEwNDlhNjE4Ni9tYWluLzEyODB4NzIwLzEwbTE0czM0Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzYxNDh9fX1dfQ__%26Signature%3DJa7IgS6AaUWLDjdp9fW-f-FevF8ki-eTirfaXv-D6Ck8FCxVDCkLWH5tH84hpJ4QIWVY6TuZd-ogyEJ6J7HlmwYxS512gAOx8qfVbFdHw4sbAM6D9xrj8lAsqLGWgE1GaSvbVPRX0dIwEA8HfGBWAJFK-3a8ETP861plEO9ZUfilue1Gup5jK6EDQusk9lW8qP2d3Ch7yVqWRCeQImkGWkCMX5d75Tnl4tDzaF2kYmq27zzJ5nWaq978ZSWoYZHCxO0zZT6b5Ik4jkPKA-LkaG7ldh0JvBC5HTKHim0N~kuAZ-tkVSUk5U9iY6x3AC~1OAAnVOGEtNUbP4QFkF8lag__&w=640&q=75",
       "expire": "08-05-2025",
@@ -141,9 +175,24 @@
     },
     {
       "name": "Dando tratos a bola",
+      "episode_order_number": "5",
+      "original_title": "Dando tratos a bola",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_071",
       "id": "6372170222112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fd2fe880d-6089-4bf5-a702-9fd416710d97%2Fmain%2F1280x720%2F11m17s312ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2QyZmU4ODBkLTYwODktNGJmNS1hNzAyLTlmZDQxNjcxMGQ5Ny9tYWluLzEyODB4NzIwLzExbTE3czMxMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzE1NTN9fX1dfQ__%26Signature%3DWFhlUgu4HQH0FwpOEVj~3Vnvh8UCRCVdgIWhbZgE62z8YeyxHvFy-qANIjlXISeGnOo~tmOQ3mkpFf5jtSpU5n02MN8bbkLkeVMWztAGbzSuVDUJsj~dp2srTBDRjXx0SZgPL7lsZ3dXGAGwxktR1hD471Kgw~Bv5UKGT2HZdqZrqJQDq4I6Trfr25JpCOA2vMALraL88~~uIkKKdZwyjzjXyPjSiAU6e~fJd56iayawmN0b0rUoZFNQMfGNAtkTsynYbyFF3hcdpf3~lZyCgMczxCHZ2hwUfpYBjCoH3pGhX~VLFbh2IkUwfLoZ~hdopJ7iU7QYwWQqprW3EMK2NA__&w=640&q=75",
       "expire": "09-05-2025",
+      "time": "22",
+      "enabled": true,
+      "quality": ["720P", "1080P"]
+    },
+    {
+      "name": "Por acaso você viu um homem invisível por ai...",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_034",
+      "episode_order_number": "6",
+      "original_title": "DE CASUALIDAD NO HAN VISTO POR AQUI AL HOMBRE INVISIBLE?\t\t\t",
+      "id": "6372382762112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fca402489-3fe2-4ea1-bc24-5ed89be9be13%2Fmain%2F1280x720%2F10m28s544ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NhNDAyNDg5LTNmZTItNGVhMS1iYzI0LTVlZDg5YmU5YmUxMy9tYWluLzEyODB4NzIwLzEwbTI4czU0NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY1MTg4ODZ9fX1dfQ__%26Signature%3DXGYADCxWoAgRs9TWcGncUkf1FuYT7V0u~glx2Vz31Y3qFWxuBmM~II5YJmyegeI1FM7BFJSaFDC2AG8pKCBXbdZXIMmiWPXQtsmM9~50XizPv4PGMm9DvlE1ahcDfBKpsvwllvXRSzJec8rjCZvEe7kNjrVucjqBeeNNCTIe3SXutkYWLnbdsVtMf~QS1MP9VoQ25uHbXwPQ~YYOoh7Zh1OkfhZMZSJOe92z4nlZLmyOjpWOYG-9IcxZPYKbJjGR9~5lWpy92QlKhbMifPD~bLvOkVDWp0MwZWttpLOpjjErEpO587yJ6kK21L0r8MoDyX6Od~IAPlG6k5bZU8LTkQ__&w=640&q=75",
+      "expire": "12-05-2025",
       "time": "22",
       "enabled": true,
       "quality": ["720P", "1080P"]
